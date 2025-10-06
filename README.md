@@ -61,7 +61,7 @@ The pipeline creates test cases for 5 students with different profiles:
 
 ## Key Features
 
-- **Real-world dataset**: 10,001 student records with realistic features
+- **Real-world dataset**: 10,000 student records with realistic features
 - **Categorical handling**: Automatic Yes/No → 1/0 encoding
 - **Standard scaling** for optimal linear regression performance
 - **Train/test split** (80/20) for proper evaluation
